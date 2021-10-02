@@ -1,4 +1,4 @@
-### 👋 Hi I'm Souvik Sen
+### 👋 Hi there
 
 <!--
 **Octane42/Octane42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
